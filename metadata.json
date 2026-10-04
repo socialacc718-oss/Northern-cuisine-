@@ -1,0 +1,6 @@
+{
+  "name": "Northern Cuisine - Restaurant & Online Ordering",
+  "description": "Authentic Chinese and continental cuisine with instant WhatsApp order slip generation, deals, and catering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
